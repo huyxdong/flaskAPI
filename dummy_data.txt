@@ -1,0 +1,27 @@
+residential = [
+    {
+        "name": "Dong Xuan Huy",
+        "age": 28,
+        "passport": 186744364
+    },
+    {
+        "name": "Phan Ha",
+        "age": 26,
+        "passport": 186744368
+    },
+    {
+        "name": "Dong Xuan Son",
+        "age": 23,
+        "passport": 186744350
+    },
+    {
+        "name": "Dong Xuan Ban",
+        "age": 32,
+        "passport": 166744364
+    },
+    {
+        "name": "Nguyen Thi Bong",
+        "age": 59,
+        "passport": 116744364
+    }
+]
