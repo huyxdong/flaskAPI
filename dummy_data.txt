@@ -5,12 +5,12 @@ residential = [
         "passport": 186744364
     },
     {
-        "name": "Phan Ha",
+        "name": "HTT",
         "age": 26,
         "passport": 186744368
     },
     {
-        "name": "Dong Xuan Son",
+        "name": "Dong Xuan Nui",
         "age": 23,
         "passport": 186744350
     },
